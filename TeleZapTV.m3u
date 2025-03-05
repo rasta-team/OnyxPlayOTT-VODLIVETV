@@ -40,11 +40,10 @@ https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
 #KODIPROP:inputstream.adaptive.license_key=ee3899fcba09e6de20355394106ca745:d84b6489ff8e5aeecde84a659c0617b8
 https://ott.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"8abcd04a612646374180e577d9e80363", "kid":"5c222683ce3b4717b5d11c75e2b6de7b"} ], "type":"temporary" }
 #EXTINF:-1, tvg-id="DARK España" tvg-logo="https://satcesc.com/wp-content/uploads/2020/10/DARK.jpg" group-title="TeleZap España", DARK España (Vodafone ES)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8abcd04a612646374180e577d9e80363", "kid":"5c222683ce3b4717b5d11c75e2b6de7b" } ], "type":"temporary" }
 http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP193/2.mpd/Manifest.mpd?start=LIVE\u0026end=END\u0026device=DASH_PC_AVC_ENC_RB_HD
 
 #EXTINF:-1 tvg-id="BoingES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/666px-Boing_2020.svg.png" group-title="TeleZap España", Boing España
