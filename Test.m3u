@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1, 13Ulica HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2861ffb1baf2465b83bcc896d8fcdf1b", "kid":"548b923b193389f31f1f1f63e4222d38" } ], "type":"temporary" }
+https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/13UlicaSD/hd2-dashdrm02/13UlicaSD.mpd
