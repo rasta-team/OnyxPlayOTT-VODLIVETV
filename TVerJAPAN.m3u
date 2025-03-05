@@ -1,4 +1,4 @@
-# TVer Live Event Feed (without using any VPN Apps) [test channel]
+# TVer Live Event Feed [test channel]
 
 #EXTM3U
 
@@ -20,7 +20,7 @@ https://ssai-variants.streaks.jp/v5/tver-simul-ntv/3865af1a962349ceaa5efe4600803
 # This channel sourced officially from TVer Channels Lineup.
 
 
-# Primehome TV Japan Channels
+[Primehome TV Japan Channels]
 
 [Green Channel Horse Racing Channels via 4 different livestream are available.]
 
@@ -106,8 +106,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=06&b
 #EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/640px-MTV_2021_%28brand_version%29.svg.png", MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=06&bind=0&uin=159413&playseek=0
 
-
-# Japan Variety Sports CH
+# Japan Sports Channel
 
 #EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="JapanSports TV", J SPORTS 1
 http://iptv12k.com:35461/654321/123456/3134
