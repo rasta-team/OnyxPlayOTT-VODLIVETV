@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CMOREFOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/C_More_Logo_2021.svg/500px-C_More_Logo_2021.svg.png" group-title="AllenteTV", C More Football
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ece38c54c091eca562be0d5200aa5f20:179c958d2903684b4ade26642a5ffa4e
+https://cd-stream-live.telenorcdn.net/cdgo/sm_cmore_fotboll_hd_live/sm_cmore_fotboll_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="CMOREHOCKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/C_More_Logo_2021.svg/500px-C_More_Logo_2021.svg.png" group-title="AllenteTV", C More Hockey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89ea09da20b90f8ce14a9f00f74bb810:903437de29ac3b189f986699ffb5e6b0
+https://cd-stream-live.telenorcdn.net/cdgo/sm_cmore_hockey_hd_live/sm_cmore_hockey_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="CMORELIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/C_More_Logo_2021.svg/500px-C_More_Logo_2021.svg.png" group-title="AllenteTV", C More Live 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=568d39760103a028d6e14d837bd3b710:53abb14d4c425972a655964d3372f440
+https://cd-stream-live.telenorcdn.net/cdgo/sm_cmore_live_1_hd_live/sm_cmore_live_1_hd_live.isml/playlist.mpd
