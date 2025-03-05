@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="13-ulica-hd" tvg-name="13 ULICA HD" tvg-logo="" group-title="",13 ULICA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:decryption-key=548b923b193389f31f1f1f63e4222d38
-https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/13UlicaSD/hd2-dashdrm02/13UlicaSD.mpd
