@@ -20,6 +20,21 @@ https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
 #KODIPROP:inputstream.adaptive.license_key=4a9dbf7992b2f2de807c30928a14eba6:48b9e3073b6c646ef9bfcfa307492e10
 https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
 
+#EXTINF:-1 tvg-id="CanalBuenViaje" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5befb22f464cfa900d6deb13508e0482_LOGO-BUENVIAJE_H-Color.png" group-title="TeleZap España", Buen Viaje
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05eeec445f9bcfaef03c36965fce16d7:a3b3b1d585f5d0472336a17824d5da22
+https://ott.zapitv.com/live/eds_c2/BUENVIAJE/dash_live_enc/BUENVIAJE.mpd
+
+#EXTINF:-1 tvg-id="BeMadTVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/300px-BeMad_2022_Logo.svg.png" group-title="TeleZap España", BeMad TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3743a0f5f8633002477dbd91510d7794:53d6e6c17b95cab5109a6fea5fd077d7
+https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
+
+#EXTINF:-1 tvg-id="BetisTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF8EAXaXxTbnlKn6nc47FqpQdohaYv3zJZ5w&s" group-title="TeleZap España", Betis TV
+https://streamer.zapitv.com/betis/index.mpd
+
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="https://iili.io/JmoqA7a.png" group-title="TeleZap España", Divinity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1ee8e0222e67dcefdcb7ed95a6911f1:a4b37cde4618859146b0278f628997ee
