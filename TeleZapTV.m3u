@@ -432,17 +432,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/yasjqprt7n/o
 #KODIPROP:inputstream.adaptive.license_key=1db8d673907b855cc52fa6c030aae18a:119e1f5bfe90e95d9b049cbf7dc66e45
 https://ott.zapitv.com/live/eds_c2/escapatv/dash_live_enc/escapatv.mpd
 
-#EXTINF:-1 channel-id="SamsungTVPlus-ESBC400001QQ" tvg-id="ESBC400001QQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20240402T134122SQUARE.png" group-title="TeleZap España | Runtime Películas", Runtime TV
-https://jmp2.uk/sam-ESBC400001QQ.m3u8
-
 #EXTINF:-1 channel-id="SamsungTVPlus-ESBD80000288" tvg-id="ESBD80000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20240117T032726SQUARE.png_20240117032726.png" group-title="TeleZap España | Runtime Películas", Runtime Acción
 https://jmp2.uk/sam-ESBD80000288.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-ESBD8000033W" tvg-id="ESBD8000033W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20230913T030610SQUARE.png_20230913030611.png" group-title="TeleZap España | Runtime Películas", Runtime Comedia
 https://jmp2.uk/sam-ESBD8000033W.m3u8
-
-#EXTINF:-1 channel-id="SamsungTVPlus-ES700004C8" tvg-id="ES700004C8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20240709T044330SQUARE.png" group-title="TeleZap España | Runtime Películas", Runtime Familia
-https://jmp2.uk/sam-ES700004C8.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-ESBD800004KU" tvg-id="ESBD800004KU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20240313T073251SQUARE.png" group-title="TeleZap España | Runtime Películas", Runtime Romance
 https://jmp2.uk/sam-ESBD800004KU.m3u8
@@ -455,68 +449,5 @@ https://jmp2.uk/sam-ES2600013H4.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-ES2600004BD" tvg-id="ES2600004BD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20240827T040355SQUARE.png" group-title="TeleZap España | RakutenTV Películas", Rakuten TV (Acçion)
 https://jmp2.uk/sam-ES2600004BD.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-629a066860ef810008267b70" tvg-id="629a066860ef810008267b70" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="TeleZap España | Anime en España", Detective Conan
-https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-63eb96754e83e70008ab8941" tvg-id="63eb96754e83e70008ab8941" tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" group-title="TeleZap España | Anime en España", Yu-Gi-Oh!
-https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-632c6df43d2bc5000751f621" tvg-id="632c6df43d2bc5000751f621" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" group-title="TeleZap España | Anime en España", Inazuma Eleven
-https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-608035b8d8705f0007260287" tvg-id="608035b8d8705f0007260287" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="TeleZap España | Anime en España", Pluto TV Anime España
-https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Estelar
-https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Acción
-https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-65f8123025e21c0013fadeb0" tvg-id="65f8123025e21c0013fadeb0" tvg-logo="https://images.pluto.tv/channels/65f8123025e21c0013fadeb0/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Noches de Acción
-https://jmp2.uk/plu-65f8123025e21c0013fadeb0.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-6267d4d1fb694f0007a6af0e" tvg-id="6267d4d1fb694f0007a6af0e" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Horror
-https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-65786888b228b7000843ad9a" tvg-id="65786888b228b7000843ad9a" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Zombies
-https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-5f6a38eaa5b68b0007a00e7a" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Sci-Fi
-https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-5f1ac8099c49f600076579b2" tvg-id="5f1ac8099c49f600076579b2" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Comedia
-https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-655b5d865812e80008843bd1" tvg-id="655b5d865812e80008843bd1" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Comedias Románticas
-https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-6385e82900ab2e000768a058" tvg-id="6385e82900ab2e000768a058" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Western
-https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-5f1ac9a2d3611d0007a844bb" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Romántico
-https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-5f1ac8a87cd38d000745d7cf" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Thrillers
-https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-65ce480a78df2200131c597b" tvg-id="65ce480a78df2200131c597b" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Psycho
-https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-5f1ac947dcd00d0007937c08" tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Drama
-https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine de autor
-https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Clásico
-https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-6086d3f420fc8500075f8dbf" tvg-id="6086d3f420fc8500075f8dbf" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Runtime en PlutoTV 
-https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-645a309c5a0cd5000873f609" tvg-id="645a309c5a0cd5000873f609" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Catástrofes
-https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
 
 #EXTM3U billed-msg="TeleZap España | IPTV España Gratis 💯 en OTTESPAÑA"
