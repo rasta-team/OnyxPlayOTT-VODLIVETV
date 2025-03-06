@@ -367,9 +367,6 @@ https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssd
 #EXTINF:-1 cuid="448" tvg-chno="448" tvg-name="Divinity 🇪🇸" tvg-id="Divinity.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp" group-title="TeleZap España", Divinity HD
 http://185.233.16.53/live/UWCPVED8V2/H5gMVveKAHAD/861583&f=.m3u8
 
-#EXTINF:-1 tvg-id="C33MADRID" tvg-logo="https://pbs.twimg.com/profile_images/1148201655726432256/1z6jtKTp_400x400.png" group-title="TeleZap España", Canal 33 Madrid
-https://media2.streambrothers.com:1936/8140/8140/.m3u8
-
 #EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF (Server 2)
 http://185.189.225.150:85/fdf/index.m3u8
 
@@ -381,9 +378,6 @@ http://176.65.146.224:8401/play/a0a9/index.m3u8
 
 #EXTINF:-1 cuid="464" tvg-chno="464" tvg-name="Aragon TV Internacional 🇪🇸 ⚽️" tvg-id="Aragón.TV.Int.es" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" group-title="TeleZap España", Aragon TV Internacional
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-#EXTINF:-1 tvg-id="7RM.TV" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg" group-title="TeleZap España", 7TV Murcia
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
 #EXTINF:-1 cuid="466" tvg-chno="466" tvg-name="TeleMadrid Internacional 🇪🇸" tvg-id="Telemadrid.Int..es" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e" group-title="TeleZap España", TeleMadrid Internacional
 https://new-international-23-secure2.akamaized.net/index.m3u8
@@ -399,12 +393,6 @@ http://185.189.225.150:85/Eurosport1/index.m3u8
 
 #EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="TeleZap España | Eurosport España", Eurosport 2 España
 http://185.189.225.157/EuroSport2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="TeleZap España", Punt3 Vall Uixó
-https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200" group-title="TeleZap España", Canal8 La Marina
-https://streaming005.gestec-video.com/hls/canal24.m3u8
 
 #EXTINF:-1 cuid="1222" tvg-chno="1220" tvg-name="Sol Musica 🇪🇸" tvg-id="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="TeleZap España", Sol Musica HD
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
