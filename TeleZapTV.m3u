@@ -42,9 +42,8 @@ https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
 https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="AMCBreak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1280px-AMC_Break.svg.png" group-title="TeleZap España", AMC Break España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UJjq+v8rJG7hXo+a61QD+w", "kid":"FeQSpO3YUxMjOWmRMHLg/w" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=15e412a4edd85313233969913072e0ff:5098eafaff2b246ee15e8f9aeb5403fb
 https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
 
 #EXTINF:-1, tvg-id="DARKTV España" tvg-logo="https://satcesc.com/wp-content/uploads/2020/10/DARK.jpg" group-title="TeleZap España", DARK TV España
