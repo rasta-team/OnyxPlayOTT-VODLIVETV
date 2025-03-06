@@ -243,8 +243,20 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="ElToroTV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="TeleZap España | Noticias", ElToro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
+#EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png" group-title="TeleZap España | Noticias", Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24España" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png" group-title="TeleZap España | Noticias", France 24 Español
+http://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+
 #EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="El Pais 🇪🇸" tvg-id="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240925T141414SQUARE.png" group-title="TeleZap España | Noticias", ElPais TV
 https://bit.ly/3pXfx9q?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="TeleZap España | Noticias", Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-name="El Confidencial" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="TeleZap España | Noticias", El Confidencial TV
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
 #EXTINF:-1 cuid="451" tvg-chno="451" tvg-name="Nova 🇪🇸" tvg-id="Nova.es" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="TeleZap España", Nova 
 http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/630822.m3u8
@@ -306,6 +318,9 @@ https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 #EXTINF:-1 cuid="459" tvg-chno="459" tvg-name="El Toro TV 🇪🇸" tvg-id="El.Toro.TV.es" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="TeleZap España | Noticias", El Toro TV (backup)
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/eitb.jpg" group-title="TeleZap España", EITB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+
 #EXTINF:-1 cuid="460" tvg-chno="460" tvg-name="ETB 1 🇪🇸" tvg-id="ETB1.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB1.webp" group-title="TeleZap España", ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
@@ -323,6 +338,9 @@ https://crtvg-america.flumotion.cloud/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://www.telemadrid.es/
 #EXTVLCOPT:http-origin=https://www.telemadrid.es
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://feedlix.net/tv/es/laotra.jpg" group-title="TeleZap España", La Otra (Server 2)
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 cuid="443" tvg-chno="443" tvg-name="Cuatro 🇪🇸" tvg-id="Cuatro.es" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png" group-title="TeleZap España", Cuatro HD
@@ -349,6 +367,9 @@ https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssd
 #EXTINF:-1 cuid="448" tvg-chno="448" tvg-name="Divinity 🇪🇸" tvg-id="Divinity.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp" group-title="TeleZap España", Divinity HD
 http://185.233.16.53/live/UWCPVED8V2/H5gMVveKAHAD/861583&f=.m3u8
 
+#EXTINF:-1 tvg-id="C33MADRID" tvg-logo="https://pbs.twimg.com/profile_images/1148201655726432256/1z6jtKTp_400x400.png" group-title="TeleZap España", Canal 33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/.m3u8
+
 #EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF (Server 2)
 http://185.189.225.150:85/fdf/index.m3u8
 
@@ -361,8 +382,14 @@ http://176.65.146.224:8401/play/a0a9/index.m3u8
 #EXTINF:-1 cuid="464" tvg-chno="464" tvg-name="Aragon TV Internacional 🇪🇸 ⚽️" tvg-id="Aragón.TV.Int.es" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" group-title="TeleZap España", Aragon TV Internacional
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
+#EXTINF:-1 tvg-id="7RM.TV" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg" group-title="TeleZap España", 7TV Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+
 #EXTINF:-1 cuid="466" tvg-chno="466" tvg-name="TeleMadrid Internacional 🇪🇸" tvg-id="Telemadrid.Int..es" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e" group-title="TeleZap España", TeleMadrid Internacional
 https://new-international-23-secure2.akamaized.net/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://feedlix.net/tv/es/telemadrid.jpg" group-title="TeleZap España", Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 cuid="439" tvg-chno="439" tvg-name="3/24 🇪🇸" tvg-id="3.24.es" tvg-logo="https://logo.iptveditor.com/324.png" group-title="TeleZap España", Canal 3/24 HD
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
@@ -372,6 +399,12 @@ http://185.189.225.150:85/Eurosport1/index.m3u8
 
 #EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="TeleZap España | Eurosport España", Eurosport 2 España
 http://185.189.225.157/EuroSport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="TeleZap España", Punt3 Vall Uixó
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200" group-title="TeleZap España", Canal8 La Marina
+https://streaming005.gestec-video.com/hls/canal24.m3u8
 
 #EXTINF:-1 cuid="1222" tvg-chno="1220" tvg-name="Sol Musica 🇪🇸" tvg-id="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="TeleZap España", Sol Musica HD
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
@@ -398,5 +431,92 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/yasjqprt7n/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1db8d673907b855cc52fa6c030aae18a:119e1f5bfe90e95d9b049cbf7dc66e45
 https://ott.zapitv.com/live/eds_c2/escapatv/dash_live_enc/escapatv.mpd
+
+#EXTINF:-1 channel-id="SamsungTVPlus-ESBC400001QQ" tvg-id="ESBC400001QQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20240402T134122SQUARE.png" group-title="TeleZap España | Runtime Películas", Runtime TV
+https://jmp2.uk/sam-ESBC400001QQ.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-ESBD80000288" tvg-id="ESBD80000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20240117T032726SQUARE.png_20240117032726.png" group-title="TeleZap España | Runtime Películas", Runtime Acción
+https://jmp2.uk/sam-ESBD80000288.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-ESBD8000033W" tvg-id="ESBD8000033W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20230913T030610SQUARE.png_20230913030611.png" group-title="TeleZap España | Runtime Películas", Runtime Comedia
+https://jmp2.uk/sam-ESBD8000033W.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-ES700004C8" tvg-id="ES700004C8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20240709T044330SQUARE.png" group-title="TeleZap España | Runtime Películas", Runtime Familia
+https://jmp2.uk/sam-ES700004C8.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-ESBD800004KU" tvg-id="ESBD800004KU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20240313T073251SQUARE.png" group-title="TeleZap España | Runtime Películas", Runtime Romance
+https://jmp2.uk/sam-ESBD800004KU.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-ESBD800001RJ" tvg-id="ESBD800001RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20240507T094205SQUARE.png" group-title="TeleZap España | RakutenTV Películas", Cine Friki
+https://jmp2.uk/sam-ESBD800001RJ.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-ES2600013H4" tvg-id="ES2600013H4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20240827T040403SQUARE.png" group-title="TeleZap España | RakutenTV Películas", Rakuten TV (Películas Top)
+https://jmp2.uk/sam-ES2600013H4.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-ES2600004BD" tvg-id="ES2600004BD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20240827T040355SQUARE.png" group-title="TeleZap España | RakutenTV Películas", Rakuten TV (Acçion)
+https://jmp2.uk/sam-ES2600004BD.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-629a066860ef810008267b70" tvg-id="629a066860ef810008267b70" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="TeleZap España | Anime en España", Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-63eb96754e83e70008ab8941" tvg-id="63eb96754e83e70008ab8941" tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" group-title="TeleZap España | Anime en España", Yu-Gi-Oh!
+https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-632c6df43d2bc5000751f621" tvg-id="632c6df43d2bc5000751f621" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" group-title="TeleZap España | Anime en España", Inazuma Eleven
+https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-608035b8d8705f0007260287" tvg-id="608035b8d8705f0007260287" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="TeleZap España | Anime en España", Pluto TV Anime España
+https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Estelar
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Acción
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-65f8123025e21c0013fadeb0" tvg-id="65f8123025e21c0013fadeb0" tvg-logo="https://images.pluto.tv/channels/65f8123025e21c0013fadeb0/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Noches de Acción
+https://jmp2.uk/plu-65f8123025e21c0013fadeb0.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-6267d4d1fb694f0007a6af0e" tvg-id="6267d4d1fb694f0007a6af0e" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Horror
+https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-65786888b228b7000843ad9a" tvg-id="65786888b228b7000843ad9a" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Zombies
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5f6a38eaa5b68b0007a00e7a" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Sci-Fi
+https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5f1ac8099c49f600076579b2" tvg-id="5f1ac8099c49f600076579b2" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Comedia
+https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-655b5d865812e80008843bd1" tvg-id="655b5d865812e80008843bd1" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Comedias Románticas
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-6385e82900ab2e000768a058" tvg-id="6385e82900ab2e000768a058" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Western
+https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5f1ac9a2d3611d0007a844bb" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Romántico
+https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5f1ac8a87cd38d000745d7cf" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Thrillers
+https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-65ce480a78df2200131c597b" tvg-id="65ce480a78df2200131c597b" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Psycho
+https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5f1ac947dcd00d0007937c08" tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Drama
+https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine de autor
+https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Clásico
+https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-6086d3f420fc8500075f8dbf" tvg-id="6086d3f420fc8500075f8dbf" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Runtime en PlutoTV 
+https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-645a309c5a0cd5000873f609" tvg-id="645a309c5a0cd5000873f609" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="TeleZap España | PlutoTV en Películas", Pluto TV Cine Catástrofes
+https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
 
 #EXTM3U billed-msg="TeleZap España | IPTV España Gratis 💯 en OTTESPAÑA"
