@@ -219,7 +219,7 @@ http://tvbox.anondns.net/mobile/ (free to watch & without pay it for any subscri
 
 ⚔️📺📡 🇵🇭 CIGNAL TV FREE CHANNELS 🇵🇭📡 ⚔️: 
 
-https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/CignalTVPHDigital.m3u (Links will be changed)
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/CignalTVPinoy.m3u (Links will be changed)
 
 
 
