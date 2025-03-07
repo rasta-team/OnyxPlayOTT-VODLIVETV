@@ -227,7 +227,7 @@ https://bit.ly/48Xf5t6?profile=ESBC4100001NZ.m3u8
 #EXTINF:-1 cuid="437" tvg-chno="437" tvg-name="La 2 🇪🇸" tvg-id="ESBC4100002AG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="TeleZap España | RTVE Digital Canal", La 2 FHD
 https://bit.ly/3u1GriR?profile=ESBC4100002AG.m3u8
 
-#EXTINF:-1 tvg-id="RNETVRadio" tvg-name="RNETVCanal" tvg-logo="https://scontent.fkul3-5.fna.fbcdn.net/v/t39.30808-1/305199103_507329958061256_1402581169584861695_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=79bf43&_nc_ohc=PTJRP5MHNpcQ7kNvgEX23zs&_nc_zt=24&_nc_ht=scontent.fkul3-5.fna&edm=AKsJ254EAAAA&_nc_gid=Ajtv5SvqznBpCXUmwhCYhxW&oh=00_AYCZM9L8a7LH0Qo6Yblyr2V0Ol5lobsnhUQvM4VJduxBMA&oe=67A55E93" group-title="TeleZap España | RTVE Digital Canal", RNE FM TV
+#EXTINF:-1 tvg-id="RNETVRadio" tvg-name="RNETVCanal" tvg-logo="https://scontent.fkul3-5.fna.fbcdn.net/v/t39.30808-1/305199103_507329958061256_1402581169584861695_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=79bf43&_nc_ohc=PTJRP5MHNpcQ7kNvgEX23zs&_nc_zt=24&_nc_ht=scontent.fkul3-5.fna&edm=AKsJ254EAAAA&_nc_gid=Ajtv5SvqznBpCXUmwhCYhxW&oh=00_AYCZM9L8a7LH0Qo6Yblyr2V0Ol5lobsnhUQvM4VJduxBMA&oe=67A55E93" group-title="TeleZap España | RTVE Digital Canal", RNEFM TV
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8?hdnts=exp%3D1738520982%7Ehmac%3Dee3fa143f9b96838698a16fba8f639cd6b1c77751c313d3bfb727885248cd1f7&idasset=6688753
 
 #EXTINF:-1 tvg-name="DW Español" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspanol.de" group-title="TeleZap España | Noticias", DW Español HD
@@ -247,9 +247,6 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png" group-title="TeleZap España | Noticias", Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="France24España" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png" group-title="TeleZap España | Noticias", France 24 Español
-http://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
 #EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="El Pais 🇪🇸" tvg-id="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240925T141414SQUARE.png" group-title="TeleZap España | Noticias", ElPais TV
 https://bit.ly/3pXfx9q?profile=inspirationFreetv.m3u8
