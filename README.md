@@ -149,9 +149,6 @@ https://bit.ly/onyxplayottv2
 
 
 
-🟢𝚃𝚎𝚕𝚎𝚉𝚊𝚙𝙴𝚂 𝚠𝚒𝚝𝚑 𝙴𝙿𝙶 𝚂𝚙𝚊𝚒𝚗 (✓):
-https://bit.ly/3EqSXx3
-
 
 
 ***Will be updated more channels soon on our platform***.  
