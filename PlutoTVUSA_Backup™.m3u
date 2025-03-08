@@ -1,21 +1,7 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
 
 
-
-# PlutoTV Fast Channels USA [✓]
- 
-# PlutoTV Fast Channels USA [✓]
-
-# PlutoTV Fast Channels USA [✓]
-
-# PlutoTV Fast Channels USA [✓]
-
-# PlutoTV Fast Channels USA [✓]
-
-# PlutoTV Fast Channels USA [✓]
-
 #EXTM3U
-
 #EXTINF:-1 channel-id="62ba60f059624e000781c436" tvg-id="62ba60f059624e000781c436" tvg-chno="160" tvg-name="00s Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Movies", 00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 channel-id="6176f39e709f160007ec61c3" tvg-id="6176f39e709f160007ec61c3" tvg-chno="1260" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="True Crime", 48 Hours
@@ -898,5 +884,7 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 #EXTINF:-1 channel-id="6452c77ed3fdde00080eb3a8" tvg-id="6452c77ed3fdde00080eb3a8" tvg-chno="3710" tvg-name="Zoom! Zoom!" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" group-title="Kids", Zoom! Zoom!
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+
+
 
 #END
