@@ -1,6 +1,5 @@
 # TVer Live Event Feed [test channel]
 
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="TVer Feed", テレビ東京 (TVer) // TVTokyo Live Feed
@@ -123,3 +122,5 @@ http://iptv12k.com:35461/654321/123456/3137
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcaujOGicf23f7g3UE7ak5S0lViNgJCtl5_g&s" group-title="JapanSports TV", GAORA TV
 http://iptv12k.com:35461/654321/123456/3131
+
+#END
