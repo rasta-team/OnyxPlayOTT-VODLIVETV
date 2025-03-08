@@ -824,6 +824,22 @@ http://122.100.138.243:4022/udp/224.1.1.2:1234
 
 #EXTINF:-1 tvg-id="TVBASIANACTION" tvg-name="TVBASIANACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlBwm7kxH9QEwXonqOFxIKK13lMieW-H0iw&s" group-title="TVB Hong Kong", TVB Asian Action Channel (Backup)
 http://v2hcdn.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w1001.m3u8
+
+#EXTINF:-1 tvg-id="myTVSUPER18" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoY5Eutolva5CLeN-uDMfF3yqSqzAXd5Ong&s" group-title="TVB Hong Kong", myTV SUPER 18台
+http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="TVBPEARLDRAMA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bbaed7c4-c113-49e9-900b-aa96efdc8a8a/TVB_Pearl_Horizontal__White__-_Angus_Yip.png" group-title="TVB Hong Kong", TVB PEARL DRAMA | 明珠剧集台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="TVBPEARLBACKUP" tvg-logo="https://assets.livednow.com/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="TVB Hong Kong", TVB Pearl (Server 2)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="PopC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfXLSAcznQQCcIA2yHrbYSGGjZ1_M2WTqEw&s" group-title="TVB Hong Kong", PopC Channel
+http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="TVBENTERAINMENTNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png" group-title="TVB Hong Kong", TVB eNews
+http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="NOW TV Hong Kong [Test Channel]", Now 爆谷台 // Now Popcorn
 https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="NOW TV Hong Kong [Test Channel]", HBO HK
