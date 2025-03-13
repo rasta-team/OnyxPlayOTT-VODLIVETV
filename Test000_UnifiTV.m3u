@@ -6,18 +6,15 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://rocket-tv.online/unifai/index.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8ded0f355021c167df79ea6875c7cb7:b1b334f7c35b760c0406ce18953d00b0
 #EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="UnifiTV Malaysia", DEGUP
 https://rocket-tv.online/unifai/degup.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b40a99a438471ae679b0e3525773d79:2294db1ce0a7ddfd56063f76b378649f
 #EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="UnifiTV Malaysia", Dunia Sinema HD
 https://rocket-tv.online/unifai/sinema.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa7bc02c75e618b6b03f17024f5b94d:02455503b264f8239c8e7bab706195d2
