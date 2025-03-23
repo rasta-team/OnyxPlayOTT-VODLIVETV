@@ -174,18 +174,7 @@ http://iptv12k.com:35461/654321/123456/3218
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=olivetv_540&sid=MXGjCU065h3UlM6qcgVQ9OaXWxF80UJIAfGAc9va&secret=81146d27cc8183448e04eb56aa7ab66a&time=1737592877
 ========================================================
-#EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CGTN Channels", CGTN
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN Docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1280px-CGTN_Documentary.svg.png" group-title="CGTN Channels", CGTN Docu
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/CGTN_Russian.svg/1280px-CGTN_Russian.svg.png" group-title="CGTN Channels", CGTN Russia
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN Francais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png" group-title="CGTN Channels", CGTN Francais
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="CGTN Channels", CGTN Español
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-name="CGTN Al-Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="CGTN Channels", CGTN Arabic
-https://0472.org/hls/cgtna.m3u8
+
 ========================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
@@ -215,18 +204,6 @@ https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 group-title="Japan TV (Anime Channels)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
-http://vthanh.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="Japan TV (Test Broadcast)" tvg-id="qvc" tvg-logo="https://i.imgur.com/xWSzQ34.png", QVC Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1  tvg-id="TV Tokyo HD" tvg-logo="https://www.tv-tokyo.co.jp/kaisha/common/images/bnr-txhd.png" group-title="Japan TV (Test Broadcast)", TV Tokyo HD
-https://tv2.jptv.live/hls/main.m3u8
-#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-logo="https://prtimes.jp/i/3563/33/resize/c1e26eaa5a38083f0f1d54e281d835f1.jpg" group-title="Japan TV (Test Broadcast)", Shop Channel Japan
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTrkOuPs_yv8H2SuON3mu5lA9YkBZVCBMYIA&s" group-title="Japan TV (Test Broadcast)", Nippon TV
-https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/fujitv12.png" group-title="Japan TV (Test Broadcast)", Fuji TV
-https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="TravelChannel" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png" group-title="Saluran Percubaan (Test Channel)", Travel Channel Asia (Unifi)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
