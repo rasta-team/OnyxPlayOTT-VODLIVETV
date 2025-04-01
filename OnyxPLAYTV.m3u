@@ -110,28 +110,6 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/2UfQUEg.png" group-title="KOREAN PREMIUM", tvN Show
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 tvg-name="KR: OCN KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/OCN_logo.jpg" group-title="KOREAN PREMIUM", OCN
-http://iptv12k.com:35461/654321/123456/3223
-#EXTINF:-1 tvg-name="KR: OCN movies KR" tvg-logo="https://pbs.twimg.com/media/EOdyIaPU8AA_GZG.jpg" group-title="KOREAN PREMIUM", OCNMovies
-http://iptv12k.com:35461/654321/123456/3222
-#EXTINF:-1 tvg-name="KR: CHANNEL A KR" tvg-logo="http://www.mediatoday.co.kr/news/photo/201905/148294_229174_2317.jpg" group-title="KOREAN PREMIUM", CHANNEL A
-http://iptv12k.com:35461/654321/123456/3226
-#EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcoYoQO%2FbtqwMcJoV7x%2FVD2ZTToHdnCcm06wHKnbkk%2Fimg.jpg" group-title="KOREAN PREMIUM", MBN TV Korea
-http://iptv12k.com:35461/654321/123456/3230
-#EXTINF:-1 tvg-name="KR: CHANNEL A KR" tvg-logo="http://www.mediatoday.co.kr/news/photo/201905/148294_229174_2317.jpg" group-title="KOREAN PREMIUM", CHANNEL A (Backup)
-http://dqy12.org/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcoYoQO%2FbtqwMcJoV7x%2FVD2ZTToHdnCcm06wHKnbkk%2Fimg.jpg" group-title="KOREAN PREMIUM", MBN Korea (backup)
-http://dqy12.org/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="KR: YTN KR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-tv-7088.jpg" group-title="KOREAN PREMIUM", YTN
-http://iptv12k.com:35461/654321/123456/3224
-#EXTINF:-1 tvg-name="KR: YTN KR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-tv-7088.jpg" group-title="KOREAN PREMIUM", YTN (Backup)
-http://dqy12.org/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="KOREAN PREMIUM", SPOTV Korea
-http://iptv12k.com:35461/654321/123456/3215
-#EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="KOREAN PREMIUM", SPOTV2 Korea
-http://iptv12k.com:35461/654321/123456/3228
-#EXTINF:-1 tvg-name="KR: MBC스포츠 KR" tvg-logo="https://blog.kakaocdn.net/dn/bmqjWS/btqDOIVjuIM/gNBvNgoLbnUASicgqyHyy0/img.jpg" group-title="KOREAN PREMIUM", MBC Sports+
-http://iptv12k.com:35461/654321/123456/3219
 #EXTINF:-1 tvg-id="EBS1TV.kr" group-title="KOREAN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png", EBS 1
 http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr" group-title="KOREAN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/2560px-EBS_2_logo.svg.png", EBS 2
@@ -799,92 +777,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBENTERAINMENTNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png" group-title="TVB Hong Kong", TVB eNews
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="NOW TV Hong Kong [Test Channel]", Now 爆谷台 // Now Popcorn
-https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="NOW TV Hong Kong [Test Channel]", HBO HK
-https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch138_160_115" group-title="NOW TV Hong Kong [Test Channel]", Now爆谷星影台 // Now Popcorn Superstar
-https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
-#EXTINF:-1 tvg-id="Now 新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="NOW TV Hong Kong [Test Channel]", Now 新聞台 // Now News
-https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超1台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超1台.png" group-title="NOW TV Hong Kong [Test Channel]", Now Sports 英超1台
-https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超2台.png" group-title="NOW TV Hong Kong [Test Channel]", Now Sports 英超2台
-https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超3台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超3台.png" group-title="NOW TV Hong Kong [Test Channel]", Now Sports 英超3台
-https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超4台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超4台.png" group-title="NOW TV Hong Kong [Test Channel]", Now Sports 英超4台
-https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 3" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS3.png" group-title="NOW TV Hong Kong [Test Channel]", Now Sports 3
-https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 4" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS4.png" group-title="NOW TV Hong Kong [Test Channel]", Now Sports 4
-https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 6" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS6.png" group-title="NOW TV Hong Kong [Test Channel]", Now Sports 6
-https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS2.png" group-title="NOW TV Hong Kong [Test Channel]", beIN SPORTS 2 HK 
-https://eventcdn02-nowe.akamaized.net/hls/CH639/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 641" tvg-name="Now Sports 641" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch641_300_216" group-title="NOW TV Hong Kong [Test Channel]", Now Sports641
-https://eventcdn02-nowe.akamaized.net/hls/CH641/index.m3u8
-======================================================
-#EXTINF:-1 tvg-id="643.unifi" tvg-logo="https://iili.io/Jhks7wu.png" group-title="BERITA ANTARABANGSA", NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="euronews.hk" tvg-logo="https://iili.io/JhksR99.png" group-title="BERITA ANTARABANGSA", Euronews English
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
-#EXTINF:-1 tvg-id="515.astro" tvg-logo="https://iili.io/Jhksx6l.png" group-title="BERITA ANTARABANGSA", CNA (CHANNEL NEWS ASIA)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="521.astro" tvg-logo="https://iili.io/Jhksu87.png" group-title="BERITA ANTARABANGSA", DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RT.hk" tvg-logo="https://iili.io/JhksYZb.png" group-title="BERITA ANTARABANGSA", RT (Russian Today)
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="610.unifi" tvg-logo="https://iili.io/JhksoG4.png" group-title="BERITA ANTARABANGSA", CGTN English
-https://english-livebkws.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-id="TRT WORLD HD.tr" tvg-logo="https://iili.io/Jhks06Q.png" group-title="BERITA ANTARABANGSA", TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="513.astro" tvg-logo="https://iili.io/JhksBZG.png" group-title="BERITA ANTARABANGSA", Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="511.astro" tvg-logo="https://iili.io/JhksTaS.png" group-title="BERITA ANTARABANGSA", CNN International
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
-#EXTINF:-1 tvg-id="517.astro" tvg-logo="https://iili.io/Jhksfun.png" group-title="BERITA ANTARABANGSA", Bloomberg Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
-https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
-#EXTINF:-1 tvg-id="WION" tvg-logo="https://iili.io/JhksEFV.png" group-title="BERITA ANTARABANGSA", WION TV
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://iili.io/Jhkscnj.png" group-title="BERITA ANTARABANGSA", Press TV
-https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmK1KwF.png" group-title="BERITA ANTARABANGSA", TELESUR English
-https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-id="YahooFinance.us" group-title="BERITA ANTARABANGSA", Yahoo! Finance
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" group-title="BERITA ANTARABANGSA", AccuWeather NOW
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="BERITA ANTARABANGSA", CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png" tvg-id="TheGuardian.uk" group-title="BERITA ANTARABANGSA", The Guardian Channel 
-https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="BERITA ANTARABANGSA", CBS News HD
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-name="India Today" tvg-logo="https://i.imgur.com/koFYddE.png" tvg-id="IndiaToday.in" group-title="BERITA ANTARABANGSA", India Today HD
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" tvg-id="i24NEWSEnglishWorld.il" group-title="BERITA ANTARABANGSA", i24 News
-https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 tvg-name="Scripps News" tvg-logo="https://i.imgur.com/UfN6aAi.png" tvg-id="ScrippsNews.us" group-title="BERITA ANTARABANGSA", Scripps News
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ASuVFay.png" group-title="BERITA ANTARABANGSA", BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+=====================================================
 ========================================================
-#EXTINF:-1 tvg-name="BBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/1280px-BBC_One_HD_Box.svg.png" group-title="BBC TV 「United Kingdom」", BBC1
-http://iptv12k.com:35461/654321/123456/4310
-#EXTINF:-1 tvg-name="BBC 2 HD" tvg-logo="https://www.pngkit.com/png/detail/337-3373255_bbc-two-bbc-studios-logo-png.png" group-title="BBC TV 「United Kingdom」", BBC2
-http://iptv12k.com:35461/654321/123456/4309
-#EXTINF:-1 tvg-name="BBC 3 HD" tvg-logo="https://www.pngfind.com/pngs/m/608-6089647_bbc-three-logo-png-transparent-png.png" group-title="BBC TV 「United Kingdom」", BBC3
-http://iptv12k.com:35461/654321/123456/4308
-#EXTINF:-1 tvg-name="BBC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/1200px-BBC_Four_HD_Logo.svg.png" group-title="BBC TV 「United Kingdom」", BBC4
-http://iptv12k.com:35461/654321/123456/4307
 ========================================================
 #EXTINF:-1 group-logo="" tvg-id="vtvcab1hd" group-title="VIETNAM (VTVCab Digital)" tvg-logo="https://i.imgur.com/7GSKm46.png", ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
