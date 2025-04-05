@@ -1,4 +1,4 @@
-# SIGN OFF NOTICE THAT SUSPENDED TILL NOW
+# SIGN OFF
 
 
 
@@ -6,7 +6,8 @@
 
 
 
-***Maybe, OnyxPlayOTT will be temporarily no longer available right now until further notice was given on it.***
+***| • THE REPOSITORY IS NOW CLOSED FOR MAINTENANCE • |***
+
 
 
 
@@ -22,4 +23,9 @@
 
 
 
-***OnyxPLAYOTT TEAM.***
+
+
+
+
+
+***OnyxPLAYOTT TEAM***
